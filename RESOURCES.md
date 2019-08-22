@@ -1,4 +1,4 @@
 Place in Tutorial:
 
-2.2.1 A user tour
-https://www.railstutorial.org/book/toy_app#sec-a_user_tour
+2.2.2 MVC in action
+https://www.railstutorial.org/book/toy_app#sec-mvc_in_action
