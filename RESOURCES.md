@@ -1,7 +1,8 @@
 Place in Tutorial:
 
-2.2.3 Weaknesses of this Users resource
-https://www.railstutorial.org/book/toy_app#sec-weaknesses_of_this_users_resource
+Chapter 3
+Mostly static pages
+https://www.railstutorial.org/book/static_pages
 
 
 ======================
