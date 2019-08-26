@@ -1,7 +1,7 @@
 Place in Tutorial:
 
-2.2.2 MVC in action
-https://www.railstutorial.org/book/toy_app#sec-mvc_in_action
+2.2.3 Weaknesses of this Users resource
+https://www.railstutorial.org/book/toy_app#sec-weaknesses_of_this_users_resource
 
 
 ======================
